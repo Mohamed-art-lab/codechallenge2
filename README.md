@@ -16,33 +16,9 @@ Bot Battlr is a galactic web app that allows users to browse through a list of r
 6. The app should now be running locally. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 
-### Core Features
-
-- See profiles of all bots in the Bot Collection.
-- Enlist individual bots into your army.
-- Release bots from your army.
-- Discharge bots from service, removing them from both the frontend and backend.
-
-
 ## Technologies Used
 
 - React.js
 - React Router
 - JSON Server
 - CSS
-
-## Project Structure
-
-- `src/components`: Contains React components for the app.
-- `src/App.js`: Main component where routing and state management are handled.
-- `db.json`: JSON database file used by JSON Server to serve bot data.
-- `public`: Static assets and HTML entry point.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## Acknowledgements
-
-1.Moringa School [https://moringaschool.com/]
-2.FlatIron School [https://flatironschool.com/]# codechallenge2
