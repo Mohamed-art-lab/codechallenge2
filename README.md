@@ -1,11 +1,3 @@
-# Bot Battlr
-
-Welcome to Bot Battlr, the one and only spot in the known universe where you can custom build your own Bot Army!
-
-## Overview
-
-Bot Battlr is a galactic web app that allows users to browse through a list of robots, view a robot's details, enlist a bot into their army, and manage their bot army.
-
 ## Project Setup
 
 1. Clone this repository to your local machine.
